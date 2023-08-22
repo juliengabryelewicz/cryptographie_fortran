@@ -7,3 +7,5 @@ Voici une liste d'algorithmes écrits en Fortran dans le domaine de la cryptogra
 - [Mlecchita-vikalpa](https://github.com/juliengabryelewicz/mlecchita_vikalpa) : Basé sur l'art de l'écriture secrète écrit par la brahame Vatsyanana (cryptage et décryptage)
 
 - [Scytale](https://github.com/juliengabryelewicz/scytale) : Basé sur le principe de la Scytale Spartiate
+
+- [Vigenère](https://github.com/juliengabryelewicz/vigenere) : Basé sur le chiffre de Vigenère
